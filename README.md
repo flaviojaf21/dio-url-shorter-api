@@ -1,4 +1,4 @@
-# URL Shortener API :coffee:
+# URL Shortener API :
 
 Sejam bem vindos ao meu projeto de criar um Encurtador de URL no bootcamp da DIO.
 
