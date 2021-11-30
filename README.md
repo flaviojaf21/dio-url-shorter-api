@@ -44,5 +44,3 @@ export class URL {
 
 export const URLModel = getModelForClass(URL)
 ```
-
-Espero que gostem :heart:
