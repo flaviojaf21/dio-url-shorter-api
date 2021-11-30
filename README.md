@@ -25,5 +25,5 @@ Ao final da aula realizei algumas pesquisas na internet e corrigi alguns problem
 
 ## Correções: 
  - Criação do arquivo modelo 'URL.ts' usando o @typegoose/typegoose
- - O modelo original da aula está depreciado => @hasezoey/typegoose
+ - O modelo original da aula está desatualizado => @hasezoey/typegoose
 
